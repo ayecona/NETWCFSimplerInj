@@ -65,7 +65,6 @@
   <ItemGroup>
     <Compile Include="Automapper\AutomapperProfile.cs" />
     <Compile Include="Automapper\MapperProvider.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Dependencies\ContainerExtensions.cs" />
     <Compile Include="Dependencies\ISimpleInjectorModule.cs" />
     <Compile Include="Dependencies\Modules\KnchrazoModule.cs" />
