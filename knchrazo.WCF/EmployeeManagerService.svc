@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Factory="knchrazo.WCF.ServiceHostFactories.SimpleInjectorServiceHostFactory" Service="knchrazo.Application.Services.EmployeeManagerService" %>
